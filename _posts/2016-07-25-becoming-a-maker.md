@@ -9,7 +9,7 @@ Becoming a Maker
 ## Pre-Launch
 We often overlook the people who are around us. We fail to learn some smart tricks they use in their daily life, which makes their days a lot more productive than ours. My inspiration is the learning to question. Only when I started getting more curious did I start learning. So, it's like the circle of life.
 
->Learn to question and question to learn.
+>*Learn to question and question to learn.*
 
 That was *quite* intense.
 
@@ -18,8 +18,9 @@ With a lot of help from what I thought was Magic, the Internet, and my cool deve
 
 ### Some cool shiz about CS101
 *I might get emotional writing this, readers caution advised.*
-> Me and code? You must be kidding!
->I don't even know how the Internet works!
+
+>*Me and code? You must be kidding!*
+>*I don't even know how the Internet works!*
 
 The CS101 course by Stanford is designed **exactly** for people who have ever said anything like that. I was convinced for life that the internet was some kind of voodoo and that I'm never going to be able to decipher it.
 
@@ -29,7 +30,7 @@ Okay, I'll come back to my point.
 
 This simple course helped me understand how I'm able to watch endless number of videos on YouTube, how I send and receive images through WhatsApp, what makes all this work - code, how we're able to share data when we're within the same network (of course, what is a bloody network!), what makes a computer **FAST**, storing of data, compression - we all talk about compressing files but I never knew it was so simple, how malware attacks our computers and everything I ever thought was beyond my brain's processing capacity!
 
-> IT BLEW MY MIND!
+>*IT BLEW MY MIND!*
 
 ### What is my biggest learning?
 If I ever feel that something is beyond my understanding, I would not say it before I attempted to learn it. Of course it's not practical to think that we would understand everything (why not!) but we can't take them on their face value.
