@@ -23,11 +23,11 @@ With a lot of help from what I thought was Magic, the Internet, and my cool deve
 
 The CS101 course by Stanford is designed **exactly** for people who have ever said anything like that. I was convinced for life that the internet was some kind of voodoo and that I'm never going to be able to decipher it.
 
-Coding was a far-fetched reality. I would always have a question mark on my face when I'm amongst a group of developers(moslty men) who bitch about their bugs more than their girl friends (I'm lieing, these guys had no girl friends. **_JK!!!_**)
+Coding was a far-fetched reality. I would always have a question mark on my face when I'm amongst a group of developers(mostly men) who bitch about their bugs more than their girl friends (I'm lying, these guys had no girl friends. **_JK!!!_**)
 
 Okay, I'll come back to my point.
 
-This simple course helped me understand how I'm able to watch endless number of videos on YouTube, how I send and recieve images through Whatsapp, what makes all this work - code, how we're able to share data when we're within the same network (of course, what is a bloody network!), what makes a computer **FAST**, storing of data, compression - we all talk about compressing files but I never knew it was so simple, how malware attacks our computers and everything I ever thought was beyond my brain's processing capacity!
+This simple course helped me understand how I'm able to watch endless number of videos on YouTube, how I send and receive images through WhatsApp, what makes all this work - code, how we're able to share data when we're within the same network (of course, what is a bloody network!), what makes a computer **FAST**, storing of data, compression - we all talk about compressing files but I never knew it was so simple, how malware attacks our computers and everything I ever thought was beyond my brain's processing capacity!
 
 > IT BLEW MY MIND!
 
